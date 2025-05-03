@@ -99,13 +99,6 @@ Refer to the presentation slides (`Image_Captioning_PPT.pptx`) or the Jupyter no
 ├── Image_Captioning_PPT.pptx      # Presentation slides
 ├── Report.pdf                      # Full project report (IEEE format)
 └── README.txt                       # Project overview
-```
-
----
-
-## 📜 License
-
-This project is for academic and research purposes. Please cite appropriately if using any part of it.
 
 ---
 
